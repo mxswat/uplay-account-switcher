@@ -1,0 +1,1 @@
+runas /user:CHANGEME "C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\upc.exe"
