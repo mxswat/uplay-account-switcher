@@ -1,0 +1,1 @@
+# uplay-account-switcher
